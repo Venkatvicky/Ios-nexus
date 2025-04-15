@@ -5,13 +5,6 @@
     <key>method</key>
     <string>development</string>
     <key>signingStyle</key>
-    <string>manual</string>
-    <key>teamID</key>
-    <string>YOUR_TEAM_ID</string>
-    <key>provisioningProfiles</key>
-    <dict>
-        <key>com.yourcompany.yourapp</key>
-        <string>Your_Provisioning_Profile_Name</string>
-    </dict>
+    <string>automatic</string>
 </dict>
 </plist>
